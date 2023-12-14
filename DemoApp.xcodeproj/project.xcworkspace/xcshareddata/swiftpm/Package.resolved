@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TrustPayEU/ios-sdk.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "f3aa169081ffcc6584e14ee8561c711f9f6d86e3"
+      }
+    }
+  ],
+  "version" : 2
+}
